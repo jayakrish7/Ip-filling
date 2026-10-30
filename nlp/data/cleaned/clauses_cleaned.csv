@@ -1,0 +1,51 @@
+clause_id,clause_type,clause_text,patent_number,filing_date,applicant_org
+CLS-2026-20000,Claims,We claim an automated neural network processor for IP filing verification comprising a memory unit and a tensor engine.,US5108603B2,2019-11-20,Cyberdyne Systems
+CLS-2026-20001,Claims,A computer-implemented apparatus comprising one or more processors configured to execute deep learning models for prior art detection.,US1499914B2,2021-04-15,Cyberdyne Systems
+CLS-2026-20002,Office_Action_Response,Response under 37 CFR 1.111: Applicant traverses the obviousness rejection and provides comparative experimental data.,N/A,Unknown,BioGenetics Inc
+CLS-2026-20003,Assignment,Patent Assignment Agreement: Assignor agrees to convey worldwide patent rights to Acme Intellectual Property LLC.,N/A,2019-11-20,BioGenetics Inc
+CLS-2026-20004,Abstract,This invention describes an intelligent agent pipeline designed for autonomous intellectual property filing workflows.,N/A,2021-04-15,Unassigned
+CLS-2026-20006,Prior_Art_Objection,The prior art cited by the patent office demonstrates substantially similar claim elements as disclosed in US11223344B2.,US4905582B2,2021-04-15,NovaPharm Ltd
+CLS-2026-20007,Abstract,A method and apparatus for real-time risk assessment of patent applications before USPTO submission.,N/A,2024-01-10,Unassigned
+CLS-2026-20008,Prior_Art_Objection,Rejection based on prior art reference US10555666A filed on 2019-11-20 by Cyberdyne Systems.,US3741438B2,2023-08-12,NovaPharm Ltd
+CLS-2026-20010,Office_Action_Response,Applicant submits that reference US10984123B2 fails to teach or suggest the neural attention layer of claim 1.,N/A,2023-08-12,NovaPharm Ltd
+CLS-2026-20011,Prior_Art_Objection,Claim 3 is rejected under 35 U.S.C. 103 as being obvious over reference US9876543A in view of US8765432B1.,US5408072B2,Unknown,NovaPharm Ltd
+CLS-2026-20013,Claims,"The method of claim 1, further comprising comparing patent claim vectors against a vector database of prior art.",US8852574B2,Unknown,BioGenetics Inc
+CLS-2026-20017,Abstract,The present disclosure relates to deep learning architectures for natural language processing of legal filing documents.,N/A,Unknown,Apex Corp
+CLS-2026-20018,Office_Action_Response,"In response to the Office Action dated 2023-08-12, Applicant amends claim 1 to clarify the structural limitations.",N/A,2023-08-12,TechCorp Global
+CLS-2026-20021,Prior_Art_Objection,THE EXAMINER REJECTS CLAIMS 1-5 UNDER 35 U.S.C. 102 AS BEING ANTICIPATED BY PATENT US10984123B2 TO APEX CORP ON 2021-04-15.,N/A,2021-04-15,Cyberdyne Systems
+CLS-2026-20024,Assignment,Assignment recorded with the USPTO assigning all rights of patent application US11998877A to Quantum Dynamics Inc.,US1908841B2,2021-04-15,Apex Corp
+CLS-2026-20029,Assignment,"The inventor hereby transfers, assigns, and conveys all right, title, and interest in US10123456B2 to TechCorp Global.",N/A,2019-11-20,Apex Corp
+CLS-2026-20030,Claims,WE CLAIM AN AUTOMATED NEURAL NETWORK PROCESSOR FOR IP FILING VERIFICATION COMPRISING A MEMORY UNIT AND A TENSOR ENGINE.,US9436429B2,Unknown,Cyberdyne Systems
+CLS-2026-20032,Office_Action_Response,Applicant respectfully requests reconsideration of the final rejection of claims 1-10 in light of the attached amendments.,US8033426B2,Unknown,TechCorp Global
+CLS-2026-20035,Claims,"A system for legal document parsing comprising: a text vectorizer, a transformer classifier, and an output queue.",US3646552B2,2023-08-12,TechCorp Global
+CLS-2026-20041,Prior_Art_Objection,The examiner rejects claims 1-5 under 35 U.S.C. 102 as being anticipated by patent US10984123B2 to Apex Corp on 2021-04-15.,US1669324B2,2024-01-10,Cyberdyne Systems
+CLS-2026-20048,Assignment,"Whereas Assignor has invented new neural network hardware, Assignor assigns full ownership to Synthetic Intelligence Corp.",US2940214B2,2023-08-12,TechCorp Global
+CLS-2026-20049,Office_Action_Response,APPLICANT RESPECTFULLY REQUESTS WITHDRAWAL OF THE OBJECTION AND ALLOWANCE OF PATENT APPLICATION US10445566B1.,US4305700B2,2024-01-10,NovaPharm Ltd
+CLS-2026-20050,Abstract,An concise summary of the patent invention disclosing a distributed ledger framework for automated trademark registration.,US6038571B2,Unknown,BioGenetics Inc
+CLS-2026-20054,Claims,What is claimed is a method of generating patent claims using multi-stage heuristic algorithms.,US6623525B2,2021-04-15,Cyberdyne Systems
+CLS-2026-20057,Claims,"THE METHOD OF CLAIM 1, FURTHER COMPRISING COMPARING PATENT CLAIM VECTORS AGAINST A VECTOR DATABASE OF PRIOR ART.",N/A,Unknown,NovaPharm Ltd
+CLS-2026-20060,Abstract,THIS INVENTION DESCRIBES AN INTELLIGENT AGENT PIPELINE DESIGNED FOR AUTONOMOUS INTELLECTUAL PROPERTY FILING WORKFLOWS.,US5013879B2,2024-01-10,NovaPharm Ltd
+CLS-2026-20065,Assignment,"THE INVENTOR HEREBY TRANSFERS, ASSIGNS, AND CONVEYS ALL RIGHT, TITLE, AND INTEREST IN US10123456B2 TO TECHCORP GLOBAL.",US3141239B2,Unknown,TechCorp Global
+CLS-2026-20068,Office_Action_Response,APPLICANT RESPECTFULLY REQUESTS RECONSIDERATION OF THE FINAL REJECTION OF CLAIMS 1-10 IN LIGHT OF THE ATTACHED AMENDMENTS.,US6871360B2,2019-11-20,Unassigned
+CLS-2026-20083,Office_Action_Response,Applicant respectfully requests withdrawal of the objection and allowance of patent application US10445566B1.,N/A,2021-04-15,Cyberdyne Systems
+CLS-2026-20085,Assignment,This Assignment of Patent Rights is executed on 2024-01-10 between Assignor BioGenetics Inc and Assignee NovaPharm Ltd.,US5770422B2,2023-08-12,NovaPharm Ltd
+CLS-2026-20109,Prior_Art_Objection,Objection under 37 CFR 1.104: The specification fails to provide written description support for the claimed invention.,US3118060B2,Unknown,TechCorp Global
+CLS-2026-20112,Abstract,Abstract: System and method for processing legal contracts and extracting key clause categories automatically.,US1602286B2,Unknown,Apex Corp
+CLS-2026-20119,Abstract,A METHOD AND APPARATUS FOR REAL-TIME RISK ASSESSMENT OF PATENT APPLICATIONS BEFORE USPTO SUBMISSION.,N/A,2023-08-12,BioGenetics Inc
+CLS-2026-20121,Abstract,THE PRESENT DISCLOSURE RELATES TO DEEP LEARNING ARCHITECTURES FOR NATURAL LANGUAGE PROCESSING OF LEGAL FILING DOCUMENTS.,US1661401B2,2024-01-10,NovaPharm Ltd
+CLS-2026-20139,Assignment,THIS ASSIGNMENT OF PATENT RIGHTS IS EXECUTED ON 2024-01-10 BETWEEN ASSIGNOR BIOGENETICS INC AND ASSIGNEE NOVAPHARM LTD.,US6404139B2,Unknown,Cyberdyne Systems
+CLS-2026-20172,Abstract,ABSTRACT: SYSTEM AND METHOD FOR PROCESSING LEGAL CONTRACTS AND EXTRACTING KEY CLAUSE CATEGORIES AUTOMATICALLY.,N/A,2019-11-20,Cyberdyne Systems
+CLS-2026-20186,Abstract,AN CONCISE SUMMARY OF THE PATENT INVENTION DISCLOSING A DISTRIBUTED LEDGER FRAMEWORK FOR AUTOMATED TRADEMARK REGISTRATION.,US9511546B2,Unknown,TechCorp Global
+CLS-2026-20204,Office_Action_Response,APPLICANT SUBMITS THAT REFERENCE US10984123B2 FAILS TO TEACH OR SUGGEST THE NEURAL ATTENTION LAYER OF CLAIM 1.,US3177199B2,Unknown,Apex Corp
+CLS-2026-20212,Prior_Art_Objection,OBJECTION UNDER 37 CFR 1.104: THE SPECIFICATION FAILS TO PROVIDE WRITTEN DESCRIPTION SUPPORT FOR THE CLAIMED INVENTION.,N/A,2021-04-15,Unassigned
+CLS-2026-20238,Assignment,ASSIGNMENT RECORDED WITH THE USPTO ASSIGNING ALL RIGHTS OF PATENT APPLICATION US11998877A TO QUANTUM DYNAMICS INC.,N/A,2024-01-10,Apex Corp
+CLS-2026-20257,Assignment,"WHEREAS ASSIGNOR HAS INVENTED NEW NEURAL NETWORK HARDWARE, ASSIGNOR ASSIGNS FULL OWNERSHIP TO SYNTHETIC INTELLIGENCE CORP.",US1262492B2,2019-11-20,Cyberdyne Systems
+CLS-2026-20275,Office_Action_Response,RESPONSE UNDER 37 CFR 1.111: APPLICANT TRAVERSES THE OBVIOUSNESS REJECTION AND PROVIDES COMPARATIVE EXPERIMENTAL DATA.,US9106820B2,2023-08-12,Apex Corp
+CLS-2026-20289,Claims,"A SYSTEM FOR LEGAL DOCUMENT PARSING COMPRISING: A TEXT VECTORIZER, A TRANSFORMER CLASSIFIER, AND AN OUTPUT QUEUE.",US9597330B2,2023-08-12,Apex Corp
+CLS-2026-20417,Prior_Art_Objection,CLAIM 3 IS REJECTED UNDER 35 U.S.C. 103 AS BEING OBVIOUS OVER REFERENCE US9876543A IN VIEW OF US8765432B1.,US5514473B2,2023-08-12,TechCorp Global
+CLS-2026-20433,Prior_Art_Objection,THE PRIOR ART CITED BY THE PATENT OFFICE DEMONSTRATES SUBSTANTIALLY SIMILAR CLAIM ELEMENTS AS DISCLOSED IN US11223344B2.,US6405839B2,Unknown,Cyberdyne Systems
+CLS-2026-20495,Claims,A COMPUTER-IMPLEMENTED APPARATUS COMPRISING ONE OR MORE PROCESSORS CONFIGURED TO EXECUTE DEEP LEARNING MODELS FOR PRIOR ART DETECTION.,US2227162B2,2024-01-10,Unassigned
+CLS-2026-20521,Claims,WHAT IS CLAIMED IS A METHOD OF GENERATING PATENT CLAIMS USING MULTI-STAGE HEURISTIC ALGORITHMS.,US7855954B2,2024-01-10,Cyberdyne Systems
+CLS-2026-20606,Prior_Art_Objection,REJECTION BASED ON PRIOR ART REFERENCE US10555666A FILED ON 2019-11-20 BY CYBERDYNE SYSTEMS.,US9795418B2,2019-11-20,Cyberdyne Systems
+CLS-2026-20650,Office_Action_Response,"IN RESPONSE TO THE OFFICE ACTION DATED 2023-08-12, APPLICANT AMENDS CLAIM 1 TO CLARIFY THE STRUCTURAL LIMITATIONS.",US4247321B2,2021-04-15,Apex Corp
+CLS-2026-20688,Assignment,PATENT ASSIGNMENT AGREEMENT: ASSIGNOR AGREES TO CONVEY WORLDWIDE PATENT RIGHTS TO ACME INTELLECTUAL PROPERTY LLC.,N/A,2023-08-12,TechCorp Global

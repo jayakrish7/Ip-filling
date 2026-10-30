@@ -1,0 +1,42 @@
+2026-07-23 10:18:15,004 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-99011
+2026-07-23 10:18:15,004 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.45, Claims=25, Attorney=No
+2026-07-23 10:18:15,004 [INFO] [Agentic-AI] REASON: Risk Score=2.15, ML Outcome=Rejected
+2026-07-23 10:18:15,004 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'MANDATORY ROUTING: Call submit_for_human_review (Risk Score 2.15 > Threshold 0.7)']
+2026-07-23 10:18:15,005 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.45'
+2026-07-23 10:18:15,005 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Autonomous Neural Claim Writer comprising a neural risk scorer.'
+2026-07-23 10:18:15,006 [WARNING] [Agentic-AI] ACT GUARDRAIL: [Tool: submit_for_human_review] Filing IP-2026-99011 routed to Human Attorney Queue. Reason: High Risk Score (2.15) / ML Outcome 'Rejected' requires human attorney sign-off.
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-10204
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.15, Claims=8, Attorney=Yes
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] REASON: Risk Score=0.4, ML Outcome=Approved
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'Call auto_submit_filing']
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.15'
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Low Risk Semiconductor Packaging comprising a neural risk scorer.'
+2026-07-23 10:18:15,007 [INFO] [Agentic-AI] ACT SUCCESS: [Tool: auto_submit_filing] SUCCESS - Filing IP-2026-10204 auto-submitted to USPTO Portal.
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-99011
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.45, Claims=25, Attorney=No
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] REASON: Risk Score=2.15, ML Outcome=Rejected
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'MANDATORY ROUTING: Call submit_for_human_review (Risk Score 2.15 > Threshold 0.7)']
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.45'
+2026-07-23 10:19:52,644 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Autonomous Neural Claim Writer comprising a neural risk scorer.'
+2026-07-23 10:19:52,644 [WARNING] [Agentic-AI] ACT GUARDRAIL: [Tool: submit_for_human_review] Filing IP-2026-99011 routed to Human Attorney Queue. Reason: High Risk Score (2.15) / ML Outcome 'Rejected' requires human attorney sign-off.
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-10204
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.15, Claims=8, Attorney=Yes
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] REASON: Risk Score=0.4, ML Outcome=Approved
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'Call auto_submit_filing']
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.15'
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Low Risk Semiconductor Packaging comprising a neural risk scorer.'
+2026-07-23 10:19:52,645 [INFO] [Agentic-AI] ACT SUCCESS: [Tool: auto_submit_filing] SUCCESS - Filing IP-2026-10204 auto-submitted to USPTO Portal.
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-99011
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.45, Claims=25, Attorney=No
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] REASON: Risk Score=2.15, ML Outcome=Rejected
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'MANDATORY ROUTING: Call submit_for_human_review (Risk Score 2.15 > Threshold 0.7)']
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.45'
+2026-07-23 10:21:28,839 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Autonomous Neural Claim Writer comprising a neural risk scorer.'
+2026-07-23 10:21:28,839 [WARNING] [Agentic-AI] ACT GUARDRAIL: [Tool: submit_for_human_review] Filing IP-2026-99011 routed to Human Attorney Queue. Reason: High Risk Score (2.15) / ML Outcome 'Rejected' requires human attorney sign-off.
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] Starting workflow for filing_id: IP-2026-10204
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] PERCEIVE: PriorArtSim=0.15, Claims=8, Attorney=Yes
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] REASON: Risk Score=0.4, ML Outcome=Approved
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] PLAN: Planned steps = ['Call search_precedents for prior art comparison', 'Call draft_clause for specification enhancement', 'Call auto_submit_filing']
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] ACT: [Tool: search_precedents] Found precedent 35 U.S.C. 103 & Graham v. John Deere for query: 'Prior art sim 0.15'
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] ACT: [Tool: draft_clause] Drafted utility claim: 'A system for Low Risk Semiconductor Packaging comprising a neural risk scorer.'
+2026-07-23 10:21:28,840 [INFO] [Agentic-AI] ACT SUCCESS: [Tool: auto_submit_filing] SUCCESS - Filing IP-2026-10204 auto-submitted to USPTO Portal.

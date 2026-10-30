@@ -1,0 +1,28 @@
+{
+    "tabular_classification_model": {
+        "model": "MLP_1D_CNN",
+        "framework": "PyTorch (MLP + 1D-CNN Hybrid Architecture)",
+        "accuracy": 0.9412,
+        "f1_score": 0.9415
+    },
+    "timeseries_forecasting": {
+        "model_architecture": "LSTM + Attention (24-Month Prosecution Timeline)",
+        "framework": "PyTorch LSTM + Bahdanau Self-Attention",
+        "metrics": {
+            "naive_baseline": {
+                "rmse": 1.8241,
+                "mae": 1.4512,
+                "mape_pct": 34.2
+            },
+            "lstm_attention_model": {
+                "rmse": 0.7425,
+                "mae": 0.581,
+                "mape_pct": 14.15
+            }
+        },
+        "performance_improvement": {
+            "rmse_reduction": "59.30%",
+            "mae_reduction": "59.96%"
+        }
+    }
+}

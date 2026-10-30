@@ -1,0 +1,108 @@
+{
+    "pipeline_type": "TF-IDF + Logistic Regression Baseline",
+    "metrics": {
+        "accuracy": 0.925,
+        "precision": 0.926,
+        "recall": 0.925,
+        "f1_score": 0.9252
+    },
+    "top_keywords_per_class": {
+        "Claims": [
+            "comprising",
+            "processor",
+            "memory",
+            "method",
+            "claimed",
+            "apparatus"
+        ],
+        "Prior_Art_Objection": [
+            "rejected",
+            "35 USC 103",
+            "obvious",
+            "examiner",
+            "prior art",
+            "reference"
+        ],
+        "Abstract": [
+            "disclosure",
+            "summary",
+            "invention",
+            "system",
+            "apparatus",
+            "method"
+        ],
+        "Assignment": [
+            "assignor",
+            "assignee",
+            "convey",
+            "title",
+            "rights",
+            "transfers"
+        ],
+        "Office_Action_Response": [
+            "applicant",
+            "reconsideration",
+            "amends",
+            "rejection",
+            "traverses",
+            "claim"
+        ]
+    },
+    "sample_entity_extractions": [
+        {
+            "text_snippet": "Response under 37 CFR 1.111: Applicant traverses the obviousness rejection and p...",
+            "extracted": {
+                "patent_numbers": [],
+                "dates": [],
+                "statutes": [
+                    "37 CFR 1.111"
+                ]
+            }
+        },
+        {
+            "text_snippet": "The prior art cited by the patent office demonstrates substantially similar clai...",
+            "extracted": {
+                "patent_numbers": [
+                    "US11223344B2"
+                ],
+                "dates": [],
+                "statutes": []
+            }
+        },
+        {
+            "text_snippet": "Rejection based on prior art reference US10555666A filed on 2019-11-20 by Cyberd...",
+            "extracted": {
+                "patent_numbers": [
+                    "US10555666A"
+                ],
+                "dates": [
+                    "2019-11-20"
+                ],
+                "statutes": []
+            }
+        },
+        {
+            "text_snippet": "Applicant submits that reference US10984123B2 fails to teach or suggest the neur...",
+            "extracted": {
+                "patent_numbers": [
+                    "US10984123B2"
+                ],
+                "dates": [],
+                "statutes": []
+            }
+        },
+        {
+            "text_snippet": "Claim 3 is rejected under 35 U.S.C. 103 as being obvious over reference US987654...",
+            "extracted": {
+                "patent_numbers": [
+                    "US9876543A",
+                    "US8765432B1"
+                ],
+                "dates": [],
+                "statutes": [
+                    "35 U.S.C. 103"
+                ]
+            }
+        }
+    ]
+}

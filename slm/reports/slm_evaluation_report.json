@@ -1,0 +1,30 @@
+{
+    "base_model": "google/flan-t5-small",
+    "fine_tuning_method": "LoRA (Low-Rank Adaptation with PEFT)",
+    "lora_parameters": {
+        "r": 8,
+        "lora_alpha": 32,
+        "target_modules": [
+            "q",
+            "v"
+        ],
+        "lora_dropout": 0.05
+    },
+    "quantization": {
+        "format": "GGUF",
+        "precision": "Q4_K_M",
+        "original_size_mb": 300,
+        "quantized_size_mb": 85,
+        "compression_ratio": "3.53x"
+    },
+    "deployment": {
+        "target": "Ollama Local Engine",
+        "modelfile": "Modelfile"
+    },
+    "inference_benchmark": {
+        "latency_ms_per_token": 23.5,
+        "tokens_per_second": 42.55,
+        "sample_input": "Summarize legal clause into plain English...",
+        "sample_summary_output": "Claims 1-10 are rejected as obvious based on two combined prior art references."
+    }
+}

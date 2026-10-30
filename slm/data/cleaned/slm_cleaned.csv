@@ -1,0 +1,7 @@
+instruction_id,long_legal_clause,plain_english_summary,clause_domain
+SLM-INST-40000,"Summarize the following legal clause into plain English:
+Assignor hereby conveys, assigns, and transfers all right, title, and interest in US Patent Application 17/999,888.","Assignor transfers 100% ownership of US Patent Application 17/999,888.",Licensing
+SLM-INST-40001,"Summarize the following legal clause into plain English:
+The Patentee hereby grants to Licensee a non-exclusive, worldwide, royalty-bearing, non-transferable license...","Licensee gets a non-transferable worldwide right to make and sell products under the patent, but cannot sublicense.",Assignment
+SLM-INST-40006,"Summarize the following legal clause into plain English:
+Under 35 U.S.C. 103, claims 1-10 are rejected as obvious over US10984123B2 in view of Smith et al...",Claims 1-10 are rejected as obvious because combining two cited prior art references would be obvious to a skilled engineer.,Licensing
